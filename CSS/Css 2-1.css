@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#headerContainer {
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 12px 80px;
+}
+
+#navBar {
+    max-width: 980px;
+    width: 100%;
+    text-align: center;
+}
+
+#navigation {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 171px;
+}
+
+#navigation a {
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#about {
+    color: #FF5DA3;
+}
+
+#what {
+    color:#323232;
+}
+
+#contact {
+    color:#323232;
+}
+
+#help {
+    color:#323232;
+}
+
+#logo {
+    vertical-align: middle;
+    margin-right: 171px;
+}
+
+#contuctUs {
+    width: 105px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #00AC25; 
+    color: #FFF;
+    font-size: 14px;
+    border: none;  
+}
+
+
+/* main */
+
+
+#mainContainer {
+    max-width: 1316px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 578px;
+}
+
+#mainHeader {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    margin-bottom: 24px;
+}
+
+#spanText {
+    color: #FF5DA3;
+    font-size: 72px;
+}
+
+#mainText {
+    color: #000;
+    text-align: center;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 24px;
+}
+
+#secondHeader {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+#secondContainer {
+    max-width: 716px;
+    width: 1005;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+#secondText {
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+#buttonInstructor {
+    width: 233px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25; 
+    color: #FFF;
+    color: #FFF;
+    font-size: 18px;
+    border: none;  
+}
+
+
+/* footer */
+
+#footerContainer {
+    background: #53389E;
+    padding: 48px 0px;  
+}
+
+#footerBar {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center; 
+    padding: 0px 32px;
+}
+
+#footerLink {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 192px;
+}
+
+#footerLink a {
+    margin-right: 32px;
+    text-decoration: none;
+    font-size: 16px;
+    color: #E9D7FE;
+    line-height: 24px;
+}
+
+#logoMark {
+    vertical-align: middle;
+    margin-right: 192px;
+}
+
+#untitled {
+    display: inline-block;
+    width: 160px;
+    color: #D6BBFB;
+    font-size: 16px;
+    line-height: 24px;
+}
